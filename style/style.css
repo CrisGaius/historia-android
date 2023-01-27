@@ -57,6 +57,7 @@ header > p {
     max-width: 500px;
     padding: 0 10px 0 10px;
     margin: auto;
+    padding-bottom: 30px;
     text-shadow: 1px 1px 0px #00000052;
 }
 
