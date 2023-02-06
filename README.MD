@@ -4,6 +4,6 @@ Estou aprendendo a criar sites utilizando HTML e CSS.
 
 Este site foi desenvolvido no curso de HTML e CSS juntamente com o professor Guanabara.
 
-> <a href="https://crisgaius.github.io/historia-android/" target="_blank">Link do site</a>
+> [Link do site](https://crisgaius.github.io/historia-android/)
 
-> <a href="https://www.linkedin.com/in/cristiano-santos-dev/" target="_blank">Linkedin</a>
+> [Linkedin](https://www.linkedin.com/in/cristiano-santos-dev/)
